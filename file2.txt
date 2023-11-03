@@ -1,1 +1,2 @@
 Menambah file ke 2 yaitu file2.txt
+Menambah baris ke3 di file2.txt
