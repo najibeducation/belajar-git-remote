@@ -1,1 +1,2 @@
 File ke 3
+Menambah baris ke3 di file3.txt
