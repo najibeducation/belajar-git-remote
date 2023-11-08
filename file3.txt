@@ -3,3 +3,4 @@ ett ada yang kurang :
             bla bla bla
 Menambah fitur 3
 fitur B
+fitur C
