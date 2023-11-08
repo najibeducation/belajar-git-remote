@@ -1,3 +1,4 @@
 file pertama atau file1
 Menambah baris ke3 di file1.txt
 feature 1
+fitur B
